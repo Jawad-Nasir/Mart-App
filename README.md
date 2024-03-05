@@ -7,7 +7,7 @@ This repository contains a simple shopping cart application written in C. The ap
 To use the application:
 
 Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Jawad-Nasir/Mart-App.git
 
 Compile the code:
 gcc shopping_cart.c -o shopping_cart
