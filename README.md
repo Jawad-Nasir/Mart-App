@@ -1,6 +1,6 @@
 # Mart-App
 
-This repository contains a simple shopping cart application written in C. The application allows users to select items from three categories: Clothes, Edibles, and Electronics, and calculates the total bill based on the selected items.
+This repository contains a simple Mart application written in C. The application allows users to select items from three categories: Clothes, Edibles, and Electronics, and calculates the total bill based on the selected items.
 
 # Usage
 
