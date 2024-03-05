@@ -1,13 +1,13 @@
 # Mart-App
 
-This repository contains a simple shopping cart application written in C. The application allows users to select items from three categories: Clothes, Edibles, and Electronics, and calculates the total bill based on the selected items.
+This repository contains a simple Mart application written in C. The application allows users to select items from three categories: Clothes, Edibles, and Electronics, and calculates the total bill based on the selected items.
 
 # Usage
 
 To use the application:
 
 Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Jawad-Nasir/Mart-App.git
 
 Compile the code:
 gcc shopping_cart.c -o shopping_cart
