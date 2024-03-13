@@ -10,10 +10,10 @@ Clone the repository:
 git clone https://github.com/Jawad-Nasir/Mart-App.git
 
 Compile the code:
-gcc shopping_cart.c -o shopping_cart
+gcc martapp.c -o martpp
 
 Run the executable:
-./shopping_cart
+./martapp
 
 # Features
 
